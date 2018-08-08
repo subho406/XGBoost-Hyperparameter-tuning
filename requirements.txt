@@ -1,0 +1,8 @@
+numpy
+watermark
+pandas
+matplotlib
+seaborn
+sklearn
+jupyter
+xgboost
